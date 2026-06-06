@@ -1,0 +1,6 @@
+{
+  "name": "Daily Task Manager",
+  "description": "An elegant, modern daily task manager with reminders, offline Room database persistence, and a highly polished Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
